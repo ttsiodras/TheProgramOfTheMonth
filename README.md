@@ -44,7 +44,7 @@ Google for pages with Greek results only.
 
 What!
 
-Some people have indeed scanned <a href="http://www.iamretro.gr/pc-master/"
+Some people have indeed scanned <a href="https://web.archive.org/web/20160611031312/http://www.iamretro.gr/pc-master/"
 target="_blank">all 150 first issues of the magazine</a>, with the official blessing
 of the company that published it behind them!...
 
@@ -152,6 +152,7 @@ Nah, never mind - I can't be bothered to hunt that down right now!
 Run! Run! Run!
 
 <a href="https://www.youtube.com/watch?v=9u2AIiLwMns">
+<br>
 <img src="itworks.jpg" alt="Youtube video">Youtube video</img></a>
 
 <em>Ecstasy. Bliss. Heaven.</em>
